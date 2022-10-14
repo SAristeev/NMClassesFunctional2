@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NMClassesFunctional2", "NMClassesFunctional2\NMClassesFunctional2.vcxproj", "{8DFF812D-C241-4A3B-B3C6-B74419A9EDB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DFF812D-C241-4A3B-B3C6-B74419A9EDB3}.Debug|x64.ActiveCfg = Debug|x64
+		{8DFF812D-C241-4A3B-B3C6-B74419A9EDB3}.Debug|x64.Build.0 = Debug|x64
+		{8DFF812D-C241-4A3B-B3C6-B74419A9EDB3}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DFF812D-C241-4A3B-B3C6-B74419A9EDB3}.Debug|x86.Build.0 = Debug|Win32
+		{8DFF812D-C241-4A3B-B3C6-B74419A9EDB3}.Release|x64.ActiveCfg = Release|x64
+		{8DFF812D-C241-4A3B-B3C6-B74419A9EDB3}.Release|x64.Build.0 = Release|x64
+		{8DFF812D-C241-4A3B-B3C6-B74419A9EDB3}.Release|x86.ActiveCfg = Release|Win32
+		{8DFF812D-C241-4A3B-B3C6-B74419A9EDB3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDE8639B-0A9F-4945-9314-F58E8D4BB41D}
+	EndGlobalSection
+EndGlobal
