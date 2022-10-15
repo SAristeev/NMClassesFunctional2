@@ -45,7 +45,6 @@ X = np.genfromtxt("X.txt", delimiter=",")
 U = np.genfromtxt("U.txt", delimiter=",")
 V = np.genfromtxt("V.txt")
 
-print(V[0])
 F = [f(x,V) for x in X]
 
 

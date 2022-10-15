@@ -136,6 +136,7 @@
     <ClInclude Include="functions.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\..\..\..\YandexDisk\math4.1\Численные методы\Интегральные уравнения.pdf" />
     <None Include="plot.py" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -37,5 +37,8 @@
     <None Include="plot.py">
       <Filter>Исходные файлы</Filter>
     </None>
+    <None Include="..\..\..\..\YandexDisk\math4.1\Численные методы\Интегральные уравнения.pdf">
+      <Filter>Исходные файлы</Filter>
+    </None>
   </ItemGroup>
 </Project>
