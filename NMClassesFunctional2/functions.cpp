@@ -1,5 +1,9 @@
 #include"functions.h"
 
+
+double f10(double x) { return x - 0.5; }
+double K10(double x, double t) { return 1; }
+
 double f11(double x) { return exp(-x); }
 double K11(double x, double t) { return x * exp(t) / 2; }
 
